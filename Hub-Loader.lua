@@ -1,5 +1,5 @@
 local supportGames = {
-    [4598019433] = "01",
+    [4598019433] = "GRGScript",
 }
 
 local name = supportGames[game.PlaceId]
